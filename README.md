@@ -8,3 +8,6 @@ Please also see related work in the Modelica community, e.g. [Modelica_DeviceDri
 
 # Acknowledgement
 This research was performed as part of the Energie Campus Nürnberg and supported by funding through the „Aufbruch Bayern (Bavaria on the move)” initiative of the state of Bavaria. 
+
+# License
+This library is released under a modified version of the [Modelica License 2](https://www.modelica.org/licenses/ModelicaLicense2). Please consider the description in the UsersGuide of the package for a more detailed description. This library uses the C-API provided freely on the web by Beckhoff Automation GmbH. The API and all code provided by Beckhoff is property and copyright of [Beckhoff](https://infosys.beckhoff.de/content/1033/tc3_adsdll2/html/tcadsdll_intro.htm).
