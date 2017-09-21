@@ -3,6 +3,11 @@ ModelicaADS
 ## Introduction
 This is a Modelica wrapper for TwinCATs ADS library. It provides functions for communicating with TwinCAT devices. ModelicaADS uses the C API AdsDLL.dll. The documentation for the ADS API is available on infosys.beckhoff.com.
 
+## Citating ModelicaADS
+If you use ModelicaADS in your scientific work please cite this repository through this DOI: [![DOI](https://zenodo.org/badge/80422113.svg)](https://zenodo.org/badge/latestdoi/80422113)
+
+
+
 ## Related Work
 Please also see related work in the Modelica community, e.g. [Modelica_DeviceDrivers](https://github.com/modelica/Modelica_DeviceDrivers) and AixLib´s [Communication Package](https://github.com/RWTH-EBC/AixLib/tree/development/AixLib/Utilities/Communication)
 
