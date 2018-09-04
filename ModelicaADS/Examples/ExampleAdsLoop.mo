@@ -35,7 +35,7 @@ extends Modelica.Icons.Example;
     nRead=1,
     varNameToWrite={"MAIN.myInputVar"},
     varNameToRead={"MAIN.myOutputVar"})
-    "This model will exchange every smaple period a telegram to the PLC"
+    "This model will exchange every sample period a telegram to the PLC"
     annotation (Placement(transformation(extent={{-66,30},{-46,50}})));
 equation
 
